@@ -1,6 +1,6 @@
 {
-  "name": "@funkibitto/vue-infinitegrid",
-  "version": "0.1.0",
+  "name": "vue-waterfall-grid",
+  "version": "0.1.4",
   "private": false,
   "scripts": {
     "build": "vue-cli-service build --target lib --name waterfall ./plugin/index.ts",
